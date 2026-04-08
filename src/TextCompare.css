@@ -1,0 +1,42 @@
+.container {
+  background-color: #e5e5e5;
+  min-height: 100vh;
+}
+
+.header {
+  background-color: midnightblue;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.footer {
+  background-color: midnightblue;
+  color: white;
+  text-align: center;
+  padding: 58px;
+}
+.textarea-container {
+  display: flex;   /* makes side by side */
+  gap: 10px;
+  margin-top: 20px;
+}
+.textarea {
+  width: 50%;
+  height: 300px;
+  padding: 10px;
+}
+.button {
+  background-color: midnightblue;
+  color: white;
+  text-align: center;
+  padding: 8px;
+  margin-left: 258px;
+  border-width: inherit;
+  margin-top: 8px;
+}
+.button-clear{
+  margin-left: 475px;
+}
+.button-switch{
+  margin-left: 100px;
+}
