@@ -37,6 +37,19 @@
 .button-clear{
   margin-left: 475px;
 }
-.button-switch{
-  margin-left: 100px;
+/* .button-switch{
+  margin-left: 10px;
+} */
+.button-switch {
+  margin: 5px;
+  padding: 8px 15px;
+  border: none;
+  background: midnightblue;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.p{
+  margin: 0%;
+  font-weight: bold;
 }
